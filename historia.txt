@@ -3,3 +3,5 @@ Esta es la historia prueba para aprender git y github
 mi nombre es Samuel Espinoza Figueroa 
 
 Tengo 19 años y soy universitario 
+
+vivo con mis dos padres y tengo 2 hermanas
